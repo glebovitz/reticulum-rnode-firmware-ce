@@ -1,4 +1,5 @@
 #include "MD5.h"
+#include <stdlib.h>
 
 MD5::MD5()
 {

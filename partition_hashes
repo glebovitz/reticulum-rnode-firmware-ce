@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# pyright: reportMissingImports=false, reportMissingModuleSource=false
 # Copyright (C) 2024, Mark Qvist
 
 # This program is free software: you can redistribute it and/or modify
